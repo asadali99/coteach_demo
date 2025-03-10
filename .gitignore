@@ -1,0 +1,10 @@
+.env
+**/__pychache__/**
+*.pyc
+*.pyo
+*.db
+*.sqlite3
+*.log
+*.bak
+/.langgraph_api
+test.ipynb
